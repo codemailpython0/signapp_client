@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "@fontsource/dancing-script";
+@import "@fontsource/sacramento";
+@import "@fontsource/great-vibes";
+
+.font-dancing {
+  font-family: "Dancing Script", cursive;
+}
+.font-sacramento {
+  font-family: "Sacramento", cursive;
+}
+.font-great {
+  font-family: "Great Vibes", cursive;
+}
